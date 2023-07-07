@@ -1,0 +1,16 @@
+.img{
+    width: 150px !important;
+    height: 100px !important;
+    align-items: center !important;
+    align-content: center !important;
+    justify-content: center !important;
+}
+.img img{
+    width: 100% !important;
+    align-items: center !important;
+    align-content: center !important;
+    justify-content: center !important;
+    margin-left: 100%;
+    margin-bottom: -40%;
+    border-radius: 4px;
+}
